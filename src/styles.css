@@ -1,0 +1,11 @@
+:root {
+	--border-radius: 1rem;
+	--background-color: #7b92af;
+	--glitch-x: 120px;
+	--glitch-y: 85px;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}

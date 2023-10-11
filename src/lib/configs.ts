@@ -1,0 +1,10 @@
+export const IDLE_AUDIO_CALLOUT_INTERVAL_MS = 31_000;
+export const IDLE_GLITCH_ANIMATION_INTERVAL_MS = 5_000;
+export const IDLE_GLITCH_ANIMATION_INTERVAL_FUZZYNESS_MS = 5_000;
+export const LANGUAGE_SWITCH_TIME_MS = 13_000;
+export const LANGUAGE_SWITCH_PAUSE_ON_INTERACTION_MS = 13_000;
+export const GURU_MEDITATION_SCREEN_TIMEOUT_MS = 20_000;
+export const SLAP_PROMPT_WAIT_TIME_MS = 3_000;
+export const NOISE_TIME_MS = 200;
+export const PAD: 'ipad11' | 'ipad6' = 'ipad6';
+export const STOP_IDLE = false;
